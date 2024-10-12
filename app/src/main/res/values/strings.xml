@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">База данных</string>
+    <string name="no_data">Нет данных</string>
+    <string name="delete">Данные удалены</string>
+    <string name="not_found">Пользователь не найден</string>
+    <string name="save">Данные сохранены</string>
+    <string name="is_correct">Пожалуйста, заполните все поля</string>
+    <string name="exit">Выход</string>
+    <string name="save_data">Сохранить данные</string>
+    <string name="get_data">Получить данные</string>
+    <string name="delete_data">Удалить данные</string>
+    <string name="result">Результат</string>
+    <string name="phone">Телефон</string>
+    <string name="name">Имя</string>
+    <string name="data_base">База данных</string>
+    <string name="start">Начать</string>
+
+    <string-array name="positions_array">
+        <item>Менеджер</item>
+        <item>Разработчик</item>
+        <item>Дизайнер</item>
+        <item>Аналитик</item>
+        <!-- Добавьте другие должности по желанию -->
+    </string-array>
+</resources>
